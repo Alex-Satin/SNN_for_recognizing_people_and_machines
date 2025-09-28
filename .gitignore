@@ -6,6 +6,38 @@ __pycache__/
 # C extensions
 *.so
 
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# === Machine Learning / YOLO ===
+*.pt
+*.pth
+*.onnx
+
+# Datasets and annotations
+/annotations/
+datasets/
+*.zip
+*.tar
+*.rar
+
+# YOLO training results
+runs/
+
+# Images and temporal data
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tif
+*.tiff
+
 # Distribution / packaging
 .Python
 build/
