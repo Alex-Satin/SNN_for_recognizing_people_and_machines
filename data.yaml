@@ -1,0 +1,8 @@
+path: G:/Course_four_2/КРБ/Project/yolo_split_dataset
+
+train: images/train
+val: images/val
+test: images/test
+
+nc: 5
+names: ['car', 'truck', 'bus', 'motorcycle', 'person']
