@@ -1,8 +1,3 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[codz]
-*$py.class
-
 # C extensions
 *.so
 
@@ -16,8 +11,6 @@ env/
 .idea/
 
 # === Machine Learning / YOLO ===
-*.pt
-*.pth
 *.onnx
 
 # Datasets and annotations
