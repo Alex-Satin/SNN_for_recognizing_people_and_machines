@@ -1,1 +1,29 @@
+# Моделі
+*.pt
 
+# Анотації та датасети
+/annotations/
+
+# Тимчасові та кеш-файли
+__pycache__/
+*.log
+*.png
+*.jpg
+*.jpeg
+
+# Результати тренувань YOLO
+runs/
+
+
+.idea/
+__pycache__/
+results/
+coco_balanced_dataset/
+yolo_split_dataset/
+t/
+*.jpg
+*.png
+*.mp4
+*.avi
+*.zip
+*.rar
